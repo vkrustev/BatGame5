@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\move.cs">
+    <Files>
+      <File FileName="Assets\move.cs" Line="87" Column="14" />
+      <File FileName="Assets\RANDOMIZE.cs" Line="1" Column="1" />
+      <File FileName="Assets\sceneman.cs" Line="1" Column="1" />
+      <File FileName="Assets\scenemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\CAM.cs" Line="1" Column="1" />
+      <File FileName="Assets\buy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
